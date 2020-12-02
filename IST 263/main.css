@@ -57,17 +57,17 @@ html {
   
   /* Linkedin */
   .fa-linkedin {
-    background: lightpink;
+    background: rgb(223, 143, 155);
     color: white;}
   
   /* Instagram */
   .fa-instagram {
-    background: lightpink;
+    background: rgb(223, 143, 155);
     color: white;}
   
   /* Facebook */
   .fa-facebook {
-    background: lightpink;
+    background:rgb(223, 143, 155);
     color: white;}
 
   
@@ -100,7 +100,7 @@ html {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: lightpink;
+  background-color: rgb(223, 143, 155);
   color: white;
 }
 /*---homepage design----*/
@@ -240,8 +240,8 @@ html {
   padding-top: 40px; 
   padding-bottom: 40px;
   color:white; 
-  background-color:lightpink; 
-  border: lightpink 2px solid
+  background-color:rgb(223, 143, 155); 
+  border:rgb(223, 143, 155)2px solid
 
 
 
@@ -357,7 +357,7 @@ html {
     top: 3%;
     bottom: 0;
     width: 10px;
-    background: lightpink;
+    background: rgb(223, 143, 155);
     left: 13%;
     height: 100%;
   }
@@ -377,7 +377,7 @@ html {
   
   .cbp_tmtimeline > li .cbp_tmlabel {
     margin: 0 0 15px 25%;
-    background: lightpink;
+    background:rgb(223, 143, 155);
     color: #FFF;
     padding: 30px;
     font-size: 1.2px;
@@ -390,7 +390,7 @@ html {
   }
   
   .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
-    background: lightpink;
+    background: rgb(223, 143, 155);
   }
   
   .cbp_tmtimeline > li .cbp_tmlabel h3 {
@@ -430,8 +430,8 @@ html {
     font-size: 1.4em;
     line-height: 40px;
     position: absolute;
-    color: lightpink;
-    background: lightpink;
+    color: rgb(223, 143, 155);
+    background:rgb(223, 143, 155);
     border-radius: 50%;
     text-align: center;
     left: 8%;
